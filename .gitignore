@@ -1,0 +1,26 @@
+# Course materials & revision files
+*.pdf
+*.docx
+extract_exams.py
+generate_docx.py
+questions_de_cours_revision.md
+EF/
+
+# Python / Jupyter / Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.virtual_documents/
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
